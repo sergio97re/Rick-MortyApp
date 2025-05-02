@@ -1,0 +1,68 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "%@ • %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ • %2$@"
+          }
+        }
+      }
+    },
+    "%lld habitantes" : {
+
+    },
+    "Buscar lugar..." : {
+
+    },
+    "Buscar personaje..." : {
+
+    },
+    "Cargando datos ..." : {
+
+    },
+    "Dimension: %@" : {
+
+    },
+    "Error al cargar datos: %@" : {
+
+    },
+    "Hello, world!" : {
+
+    },
+    "Home" : {
+
+    },
+    "Locations" : {
+
+    },
+    "Personajes" : {
+
+    },
+    "Reintentar carga" : {
+
+    },
+    "Rick & Morty" : {
+
+    },
+    "Type: %@" : {
+
+    }
+  },
+  "version" : "1.0"
+}
